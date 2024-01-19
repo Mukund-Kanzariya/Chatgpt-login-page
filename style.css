@@ -1,0 +1,155 @@
+.main {
+
+    margin-left: 630px;
+}
+
+.chatgptlogo {
+    height: 35px;
+    margin-left: 130px;
+    padding-top: 20px;
+    padding-bottom: 150px;
+}
+
+.line{
+    margin-left: 50px;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.paddeml{
+    padding-top: 20px;
+}
+
+.eml {
+    font-size: 15px;
+    border: 1px solid black;
+    width: 33%;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.peddcon {
+    padding-top: 20px;
+}
+
+.continue {
+    width: 33%;
+    height: 50px;
+    border: 1px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    background-color: rgb(21, 171, 149);
+}
+
+.continue:hover{
+    background-color: rgb(7, 130, 105) ;
+}
+
+.dontac {
+    font-size: 20px; ;
+    margin-left: 50px;
+} 
+
+.hr1,.hr2 {
+    border: 1px;
+    height: 1px;
+    background-color: black;
+    display: inline-block;
+    margin-left: 1px;
+    width: 132px;
+}
+
+.hr12{
+    padding-bottom: 20px;
+}
+
+
+.googlelogo,.micrologo{
+    height: 25px;
+    margin-right: 80px;
+    margin-top: 3px;
+
+}
+.google {
+    font-size: 15px;
+    width: 33%;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.google:hover,.apple:hover,.microsoft:hover
+{
+    background-color: #dfe3e4;
+}
+.microsoft{
+    font-size: 15px;
+    width: 33%;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    background-color: white;
+}
+
+.paddmicro,.paddapple {
+    padding-top: 10px;
+}
+
+.apple{
+    font-size: 15px;
+    width: 33%;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.google img{
+    height: 20px;
+    width:  21px;
+    margin-left: -92px;
+    margin-right: 17px;
+    margin-bottom: -3px;
+}
+
+.googlelogo{
+    margin-top: -10px;
+}
+
+.microsoft img{
+    height: 20px;
+    width:  20px;
+    margin-left: -77px;
+    margin-right: 18px;
+    margin-bottom: -5px;
+}
+
+.micrologo{
+    margin-top: -3px
+}
+
+.apple img{
+    height: 27px;
+    width:  25px;
+    margin-left: -103px;
+    margin-right: 13px;
+    margin-bottom: -7px;
+}
+
+.applelogo{
+    margin-top: -5px;
+}
+
+.paddfooter{
+    padding-top: 170px;
+    margin-left: 50px;
+}
+
+.footer {
+    color: rgb(35, 174, 153);
+}
+
