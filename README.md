@@ -34,27 +34,13 @@ This login form clone is designed to be easy to use and integrate into your proj
 - Modify the form validation logic in the `script.js` file based on your specific needs.
 - Feel free to add additional features or enhancements to suit your project requirements.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
 ## Acknowledgements
 
 - This project was inspired by the login form used in ChatGPT.
 - Special thanks to the developers and designers who contribute to open-source projects that inspire and benefit the community.
 
 ## Author
-
-[Your Name]
+mukund kanzariya
 
 ## Contact
-
 For any questions or inquiries, feel free to contact the author at [your.email@example.com].
-
----
-
-**Note:** This README is a template, and you should customize it based on your project's specific details and requirements.
